@@ -1,0 +1,83 @@
+
+/* section-1 */
+
+main .section-1 .container .banner img {
+    height: auto;
+    width: 100%;
+}
+
+/* end section-1 */
+
+/* section-2 */
+
+main .section-2 {
+    margin-top: 70px;
+}
+
+main .section-2 .container .desc h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: var(--color-one);
+    font-weight: bold;
+}
+
+main .section-2 .container .desc p {
+    font-style: italic;
+    text-align: justify;
+    color: var(--color-text);
+    font-size: 18px;
+}
+
+/* end section-2 */
+
+/* section-3 */
+main .section-3 {
+    margin-top: 20px;
+}
+
+main .section-3 .service h3 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: var(--color-one);
+    font-weight: 900;
+}
+
+main .section-3 .service {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+}
+main .section-3 img{
+    cursor: pointer;
+}
+/* end section-3 */
+
+/* section-4 */
+main .section-4 {
+    margin-top: 50px;
+}
+
+main .section-4 .title {
+    color: var(--color-one);
+    margin-bottom: 30px;
+}
+
+.section-4 .img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+.section-4 .img img {
+    width: 100%;
+    height: 100%;
+}
+
+.section-4 .img-1{
+    margin-bottom: 30px;
+}
+
+/* end section-4 */
+
+
+
+
